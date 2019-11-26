@@ -1,0 +1,12 @@
+{
+  "docs_url": "https://mcash.network/",
+  "ignore": [
+    ".gitignore",
+    "README.md"
+  ],
+  "commands": {
+    "Compile": "mcashbox compile",
+    "Migrate": "mcashbox migrate",
+    "Test": "mcashbox test"
+  }
+}
