@@ -1,0 +1,1 @@
+# mcashbox-init-bare
